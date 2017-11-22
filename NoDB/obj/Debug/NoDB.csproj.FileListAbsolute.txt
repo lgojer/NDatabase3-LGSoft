@@ -1,0 +1,8 @@
+c:\users\sajid\source\repos\NoDB\NoDB\bin\Debug\NoDB.exe.config
+c:\users\sajid\source\repos\NoDB\NoDB\bin\Debug\NoDB.exe
+c:\users\sajid\source\repos\NoDB\NoDB\bin\Debug\NoDB.pdb
+c:\users\sajid\source\repos\NoDB\NoDB\bin\Debug\NDatabase3.dll
+c:\users\sajid\source\repos\NoDB\NoDB\obj\Debug\NoDB.csproj.CoreCompileInputs.cache
+c:\users\sajid\source\repos\NoDB\NoDB\obj\Debug\NoDB.exe
+c:\users\sajid\source\repos\NoDB\NoDB\obj\Debug\NoDB.pdb
+C:\Users\Sajid\source\repos\NoDB\NoDB\obj\Debug\NoDB.csprojResolveAssemblyReference.cache

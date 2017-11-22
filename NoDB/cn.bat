@@ -1,0 +1,1 @@
+csc /out:ndb1.exe /R:NDatabase3.dll ndb1.cs
